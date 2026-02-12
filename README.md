@@ -19,12 +19,12 @@ For using in raw HTML/JS:
 
 ```html
 <!-- Add the stylesheet to the head -->
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/NewJerseyStyle/clippyjs/refs/heads/main/assets/clippy.css">
+<link rel="stylesheet" type="text/css" href="https://NewJerseyStyle.github.io/clippyjs/assets/clippy.css">
 
 <!-- Add these scripts to  the bottom of the page -->
 <script src="https://unpkg.com/jquery@3.2.1"></script>
 
-<script src="https://raw.githubusercontent.com/NewJerseyStyle/clippyjs/refs/heads/main/docs/clippy.js"></script>
+<script src="https://NewJerseyStyle.github.io/clippyjs/demo/clippy.js"></script>
 
 <script type="text/javascript">
 clippy.load('Merlin', function(agent){
